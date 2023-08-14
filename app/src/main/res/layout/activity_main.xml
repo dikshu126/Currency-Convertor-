@@ -96,12 +96,5 @@
         android:textColor="@color/white"
         tools:ignore="TextContrastCheck" />
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:overScrollMode="never"
-        android:scrollbars="vertical"
-
-        tools:ignore="SpeakableTextPresentCheck" />
 
 </LinearLayout>
